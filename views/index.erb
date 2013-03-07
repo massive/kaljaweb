@@ -1,0 +1,6 @@
+<% for outlet in outlets %>
+	<h1><%= outlet.first %></h1>
+	<% for beer in outlet.last %>
+		<p><%= beer[2] %>: <%= beer[3] %></p>
+	<% end %>
+<% end %>
