@@ -1,0 +1,10 @@
+Koodi on mitä on, älä välitä tai forkkaa ja tee kauniimmaksi. Kotikäyttöön tarkoitettu ainoastaan.
+
+Vaatimukset:
+ Nokogiri
+ Sinatra
+
+Käynnistysohjeet:
+ ruby kaljan_hakija.rb
+ ruby kaljaweb.rb 
+ avaa http://localhost:4567/
